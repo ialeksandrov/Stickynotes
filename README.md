@@ -2,4 +2,4 @@
 
 This is simple project HTML 5 + CSS + JS/jQuery.
 
-Started as a job interview tast , but never finished.
+Started as a job interview task , but never finished.
